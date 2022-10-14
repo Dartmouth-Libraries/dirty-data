@@ -176,3 +176,6 @@ entire idea folder.
 
 # Mac-specific file that can be safely ignored
 .DS_Store
+
+# Temporary files created by MS Office
+~$*
